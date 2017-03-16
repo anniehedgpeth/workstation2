@@ -1,10 +1,11 @@
 name 'workstation2'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Annie Hedgpeth'
+maintainer_email 'ahedgpeth@10thmagnitude.com'
 license 'all_rights'
 description 'Installs/Configures workstation2'
 long_description 'Installs/Configures workstation2'
 version '0.1.0'
+
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
